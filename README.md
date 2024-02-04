@@ -6,3 +6,8 @@ Expect lots of softlocks and occasional game crashes. This is only designed to h
 There's configuration variables at the start of the script. You can set your language and enable/disable certain features.
 
 Modifications are welcome. My only request is that you keep them free and open source (and unless your version is a full rewrite, please don't take full credit for the script)
+
+Instructions:
+- Be sure to back up your BigFile_PC.idx file before running the script
+- Once you run the script, navigate to the folder Detroit: Become Human is installed to and click "Select Folder"
+- Wait 1-5 seconds and run the game to see the randomized effects
