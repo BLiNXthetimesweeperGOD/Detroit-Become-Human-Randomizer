@@ -1,5 +1,5 @@
 # Detroit: Become Human Randomizer
-A randomizer for the Quantic Dream masterpiece "Detroit: Become Human" (Steam version - not tested on the Epic Games version)
+A randomizer for the Quantic Dream masterpiece "Detroit: Become Human" (Steam version - don't use this on the Epic Games version! I'll be buying that version eventually and provide another asset list for it.)
 
 Expect lots of softlocks and occasional game crashes. This is only designed to help get funny clips.
 
