@@ -12,3 +12,8 @@ Instructions:
 - Be sure to back up your BigFile_PC.idx file before running the script
 - Once you run the script, navigate to the folder Detroit: Become Human is installed to (the one with the BigFile_PC packages) and click "Select Folder"
 - Wait 1-5 seconds and run the game to see randomized stuff
+
+(End of instructions)
+
+Oh, and one more important thing to note:
+Model offsets were obtained using Deadray ([d](https://www.deadray.com/detroit/)https://www.deadray.com/detroit/)
