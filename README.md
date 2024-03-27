@@ -17,4 +17,4 @@ Instructions:
 
 Oh, and one more important thing to note:
 
-Model offsets were obtained using Deadray ((https://www.deadray.com/detroit/)https://www.deadray.com/detroit/)
+Model offsets were obtained using Deadray (https://www.deadray.com/detroit/)https://www.deadray.com/detroit/)
